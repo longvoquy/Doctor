@@ -1,8 +1,5 @@
 package data;
 
-import data.Doctor;
-
-import java.util.ArrayList;
 import java.util.Scanner;
 
 
